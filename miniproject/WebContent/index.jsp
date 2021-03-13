@@ -13,7 +13,7 @@
 			<form action="loginAction" method="post">
 				<table>
 					<tr>
-						<td>Enter User name :</td>
+						<td>Enter User name sumit :</td>
 						<td><input type="text" name='uname'></td>
 					</tr>
 					<tr>
