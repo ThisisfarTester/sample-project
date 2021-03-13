@@ -17,7 +17,7 @@ public class UpdateRecordServlet extends HttpServlet {
 		String fname=request.getParameter("fname");
 		String lname=request.getParameter("lname");
 		String password=request.getParameter("pwd");
-		String gender=request.getParameter("gender");
+		String nar/nari=request.getParameter("gender");
 		String country=request.getParameter("country");
 		String interest[]=request.getParameterValues("interest");
 		//validate field
