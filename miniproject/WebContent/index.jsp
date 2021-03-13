@@ -8,7 +8,7 @@
 	</head>
 	<body bgcolor='cyan'>
 		<div align="center">
-			<font color='green' size='3pxl'>Login with the system</font><br>
+			<font color='red' size='3pxl'>Login with the system</font><br>
 			<hr><br>
 			<form action="loginAction" method="post">
 				<table>
