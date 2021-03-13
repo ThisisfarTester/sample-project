@@ -4,7 +4,7 @@
  --%>
 <html>
 	<head>
-		<title>Management Application</title>
+		<title>Management test Application</title>
 	</head>
 	<body bgcolor='cyan'>
 		<div align="center">
